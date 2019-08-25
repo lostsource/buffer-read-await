@@ -1,0 +1,23 @@
+{
+  "name": "buffer-read-await",
+  "version": "0.1.0",
+  "description": "asynchronously read data from incoming buffer stream",
+  "main": "src/buffer-read-await.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostsource/buffer-read-await.git"
+  },
+  "keywords": [
+    "buffer",
+    "read",
+    "async",
+    "await",
+    "promise"
+  ],
+  "author": "joseph@lostsource.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lostsource/buffer-read-await/issues"
+  },
+  "homepage": "https://github.com/lostsource/buffer-read-await#readme"
+}
